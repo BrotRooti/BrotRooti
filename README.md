@@ -5,8 +5,22 @@
 <h1 align="center"> Hi there 👋 </h1>
 
 
+---
 
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original-wordmark.svg" title="Arduino" alt="Arduino" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-line.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jetbrains/jetbrains-original.svg" title="Jet Brains" alt="Jet Brains" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original-wordmark.svg" title="PyCharm" alt="PyCharm" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+</div>
 
+---
+<div align="center">
+<h1> I Like ⬇️</h1>
+<img style="text-align:center;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrotRooti" class="center"/>
+</div>
 
 <!--
 **BrotRooti/BrotRooti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
